@@ -31,3 +31,7 @@ This project is hosted on GitHub at [https://github.com/bunnysayzz/ansible.git](
 - 🔧 **Containerization Benefits:** Docker encapsulates applications and their dependencies, ensuring consistency across various environments and simplifying deployment.
 - 🛠️ **Continuous Learning:** Encountering and resolving errors during setup fosters a deeper understanding of the tools and technologies involved.
 - 📈 **Version Control:** Utilizing GitHub as a version control system facilitates collaboration and tracking of changes, which is essential for team projects.
+
+## Detailed Setup Explanation
+
+For a more in-depth look at the setup process, including commands, refer to the following document: [https://res.cloudinary.com/dxecoctrm/image/upload/v1731218525/ghnp8xue2jndodl2iqha.pdf](https://res.cloudinary.com/dxecoctrm/image/upload/v1731218525/ghnp8xue2jndodl2iqha.pdf)
