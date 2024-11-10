@@ -4,6 +4,8 @@ This project demonstrates the creation of a CI/CD pipeline using GitHub, Jenkins
 
 ![CI/CD Pipeline Flowchart](dfd.png)
 
+
+
 ## Summary
 
 We create a CI/CD pipeline using GitHub, Jenkins, Ansible, and Docker on AWS, demonstrating automated code deployment with webhooks.
@@ -35,3 +37,7 @@ This project is hosted on GitHub at [https://github.com/bunnysayzz/ansible.git](
 ## Detailed Setup Explanation
 
 For a more in-depth look at the setup process, including commands, refer to the following document: [https://res.cloudinary.com/dxecoctrm/image/upload/v1731218525/ghnp8xue2jndodl2iqha.pdf](https://res.cloudinary.com/dxecoctrm/image/upload/v1731218525/ghnp8xue2jndodl2iqha.pdf)
+
+## CI/CD Pipeline Functionality
+
+To see how the CI/CD pipeline works, open the following PDF: [cicd.pdf](cicd.pdf)
