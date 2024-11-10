@@ -18,6 +18,10 @@ We create a CI/CD pipeline using GitHub, Jenkins, Ansible, and Docker on AWS, de
 - 🔄 **Real-Time Updates:** Modify code in GitHub to see instant updates in deployment.
 - ✔️ **Error Handling:** Learn to troubleshoot common errors during setup.
 
+## GitHub Repository and Pipeline Details
+
+This project is hosted on GitHub at [https://github.com/bunnysayzz/ansible.git](https://github.com/bunnysayzz/ansible.git). The pipeline is configured to trigger automatically with GitHub webhooks, ensuring real-time deployment upon code changes. Jenkins is used as the CI/CD tool to automate the build and deployment process.
+
 ## Key Insights
 
 - 🔄 **Importance of Automation:** Automating deployment processes minimizes human error and speeds up project delivery, enhancing efficiency.
